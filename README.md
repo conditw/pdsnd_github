@@ -2,7 +2,7 @@
 May 2, 2020
 
 ### Project Title
-Bikeshare Git Project.
+Bikeshare Git Project Exploration.
 
 ### Description
 This project explores Bikeshare data in New York City. It looks at the age of users.

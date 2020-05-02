@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+May 2, 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Git Project.
 
 ### Description
-Describe what your project is about and what it does
+This project explores Bikeshare data in New York City.
 
 ### Files used
-Include the files used
+It uses an R Script file because I took the R programming class and a CSV file.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This is a project to earn a nanodegree.

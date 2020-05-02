@@ -5,7 +5,7 @@ May 2, 2020
 Bikeshare Git Project.
 
 ### Description
-This project explores Bikeshare data in New York City.
+This project explores Bikeshare data in New York City. It looks at the age of users.
 
 ### Files used
 It uses an R Script file because I took the R programming class and a CSV file.
